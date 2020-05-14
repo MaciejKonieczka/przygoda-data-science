@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# data from 03_Pobieranie danych
+03_Pobieranie danych/Test_excel/
+
+#chromedriver
+chromedriver.exe
+
+#Presentation 
+*.ppsx
+*.pptx
